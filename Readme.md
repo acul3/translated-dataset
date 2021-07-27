@@ -49,7 +49,7 @@
 
 ## CC3M
    * Orignal Source: https://ai.google.com/research/ConceptualCaptions/
-   * Link translated dataset : tbd
+   * Link translated dataset : https://drive.google.com/file/d/1yHJMJE3hx58rfvKRPV7AJUu6CpdF39HI/view?usp=sharing
    * Download Script : tbd
    * Format : .tsv with sep `"\t"`
    ```
