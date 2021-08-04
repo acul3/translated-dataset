@@ -55,3 +55,12 @@
    ```
       caption  url
    ```
+   
+## CC12M
+   * Orignal Source: https://github.com/google-research-datasets/conceptual-12m
+   * Link translated dataset : tbd
+   * Download Script : tbd
+   * Format : .tsv with sep `"\t"`
+   ```
+      caption  url
+   ```
