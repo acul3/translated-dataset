@@ -58,7 +58,7 @@
    
 ## CC12M
    * Orignal Source: https://github.com/google-research-datasets/conceptual-12m
-   * Link translated dataset : tbd
+   * Link translated dataset : https://drive.google.com/file/d/1w8kM9l_4xV_gYDMdWtXlEbaV_LZc-3H6/view?usp=sharing
    * Download Script : tbd
    * Format : .tsv with sep `"\t"`
    ```
